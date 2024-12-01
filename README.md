@@ -1,2 +1,2 @@
 # ojex-livesite
-a personal website - included blog and projects page.
+a source for ojex.me
